@@ -166,4 +166,5 @@ nav a{
 	text-align: center;
 	min-height: 150px;
 	overflow: auto;
+	display: flex;
 }
