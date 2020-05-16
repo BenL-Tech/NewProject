@@ -118,7 +118,7 @@ nav a{
 .insidefooter .logo-area h2{
 	text-decoration: none;
 	font-size: 20px;
-	font-family: Righteous;
+	font-family:Oswald;
 	color: #fff;
 	letter-spacing: 3px;
 	text-align: center;
@@ -167,4 +167,16 @@ nav a{
 	min-height: 150px;
 	overflow: auto;
 	display: flex;
+}
+
+.insidefooter #third-footer #social{
+	font-family: Oswald;
+	font-size: 18px;
+	font-weight: 200;
+	color: white;
+	display: block;
+	width: 100%;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	text-align: center;
 }
